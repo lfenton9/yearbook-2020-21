@@ -1,0 +1,59 @@
+
+
+.heading{
+font-family: "Proxima Nova";
+text-align: center;
+letter-spacing: 3pt;
+font-weight:bold;
+color: #8CC541;
+font-size: 40px;
+}
+.subheading{
+font-family: "Proxima Nova";
+font-size: 20px;
+letter-spacing: 3pt;
+font-weight: thin;
+line-height: 0;
+color:#cde6ae;
+}
+
+
+
+
+/* Intro Page */
+#intro-year {
+/* display: inline-block; */
+font-size: 80px;
+padding-top: 120px;
+color: #2073c6;
+
+}
+
+#school {
+height: 4.5in;
+display: inline-block;
+padding-top: .5in;
+}
+#Cover {
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+display: block;
+}
+
+#intro {
+font-size: 40px;
+padding-top: 0.5in;
+color: #8cc541;
+}
+
+#town {
+font-size: 30px;
+margin-top: 20px;
+color: #8cc541;
+}
+/* Full page images */
+.fullpage-image{
+width:7.5in;
+}
+

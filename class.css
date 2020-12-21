@@ -1,0 +1,48 @@
+.icon {
+    display: inline-block;
+    margin: 0px 8px 15px 8px;
+    vertical-align:top;
+    background-color:#d3d3d3;
+    text-align:center;
+    width: 3in;
+    border: 5px solid white;
+    Height: 3.2in; 
+    margin: 10px;
+    padding:45px;
+}
+.icon:hover {
+  background-color:#efc219; 
+}
+.directory-name {
+  text-align: center;
+  margin-bottom: 3px;
+  width:100%; 
+  word-wrap: normal;
+}
+
+.icon a {
+    color:black;
+    text-decoration:none;
+}
+.person {
+    display: inline-block;
+    margin: 0px 8px 15px 8px;
+    vertical-align:center;
+    width: 2in;
+    height: 2.8in;
+    display: inline-block;
+      }
+  .logo {
+    height:33.5mm;
+    width:100mm; 
+    padding-top:5mm; 
+    padding-bottom:0mm;
+    }
+
+    .classname {
+      text-align: center;
+      padding-top: 24px;
+    }
+    .graduate-year {
+      text-align: center;
+    }
