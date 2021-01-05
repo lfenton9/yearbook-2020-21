@@ -41,14 +41,13 @@
 
     .classname {
       text-align: center;
-      padding-top: 24px;
+      padding-top: 15px;
+      color: #333333;
+      font-size: large; 
     }
 
-  h1 { 
-      text-align: center;
-      padding-top: 24px;
-      color: #efc219; 
-    }
     .graduate-year {
       text-align: center;
+      color: #333333; 
+      font-size: small; 
     }
