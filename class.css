@@ -49,3 +49,10 @@
       color: #333333; 
       font-size: small; 
     }
+
+   .about-para { 
+    text-align: center;
+    color: #333333; 
+    font-size: medium; 
+    padding-top: 15px; 
+  }
